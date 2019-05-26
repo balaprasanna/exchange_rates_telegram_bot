@@ -1,4 +1,4 @@
-# exchange_rates_telegram_bot
+# Exchange Rates Telegram Bot
 
 
 - Update your API_KEYS & TOKENS
