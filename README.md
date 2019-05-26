@@ -11,3 +11,8 @@ API_KEY = "<API_KEY_FOR_MIN_API>"
 	- https://www.botogram.dev/docs/0.4/bot-creation/
 - Reference for "<API_KEY_FOR_MIN_API>"
 	- https://min-api.cryptocompare.com
+
+
+Output:
+
+![./telegram_bot_output.png](./telegram_bot_output.png)
